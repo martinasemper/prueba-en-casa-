@@ -1,0 +1,39 @@
+#clickButton {
+    background-color: #4CAF50; /* Verde */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#clickCount {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+
+.raqueta {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.botones{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.venta{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5%;
+    margin: 5%;
+}
+  
